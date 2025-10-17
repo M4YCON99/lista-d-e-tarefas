@@ -109,3 +109,26 @@ span{
     transition: 0.5s;
     height: 27px;
 }
+
+
+.conclui {
+  border: none;
+  background-color: #00c03a;
+  color: white;
+  font-size: 14px;
+  height: 25px;
+  width: 70px;
+  cursor: pointer;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+.conclui:hover {
+  background-color: #01972f;
+  transition: 0.3s;
+}
+
+.concluida {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
